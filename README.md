@@ -35,6 +35,14 @@ Repository klonen und synchronisieren
 
 Änderungen zurücksetzen
 
+git reset: Setzt den aktuellen Zustand des Branches zurück
+           --hard: Setzt alles zurück (Arbeitsverzeichnis, Staging-Bereich und HEAD)
+           --soft: Behält Änderungen im Staging-Bereich bei
+           --mixed: Standardverhalten, behält Änderungen im Arbeitsverzeichnis
+
+git revert: Erstellt einen neuen Commit, der die Änderungen des Commits davor rückgängig macht
+
+
 
 
 GIT MERGEKONFLIKTE
