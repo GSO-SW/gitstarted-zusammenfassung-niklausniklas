@@ -41,9 +41,13 @@ Git-Konflikte
 
 
 
-Nützliche Navigationsbefehle
+NÜTZLICHE NAVIGATIONSBEFEHLE
 
+-ls – Zeigt alle Dateien und Ordner im aktuellen Verzeichnis an
 
+-cd <ordner> – Wechselt in das angegebene Verzeichnis
+
+-cd (ohne Parameter) – Wechselt ins Home Verzeichnis
 
 
 Lokale Repositories
